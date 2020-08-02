@@ -1,5 +1,6 @@
 ## I'm Sungdong Jo, Front-end Developer. <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
-![KakaoTalk_Photo_2020-08-02-22-48-19](https://user-images.githubusercontent.com/22005861/89124485-457a6c00-d512-11ea-9452-af730dd17cb6.gif)
+![KakaoTalk_Photo_2020-08-02-22-49-49](https://user-images.githubusercontent.com/22005861/89124507-7a86be80-d512-11ea-8ed1-17703eed8ece.gif)
+
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdoong-jo)](https://hits.seeyoufarm.com)
 
