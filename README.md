@@ -6,10 +6,10 @@
 ### About
 I am not interested in growth. But I just keep going.
 - **Interestes :** Reusable Component(UI) / Design system, Infra for FE, Mocking API in client side
--  **Weapons :** [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/devrappers/)](https://github.com/devrappers/)
-[![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&link=https://github.com/devrappers/)](https://github.com/DevRappers/)
-[![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react&link=https://github.com/devrappers/)](https://github.com/devrappers/)
-[![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js&link=https://github.com/devrappers/)](https://github.com/devrappers/)
+-  **Weapons :** [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/doong-jo/)](https://github.com/doong-jo/)
+[![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&link=https://github.com/doong-jo/)](https://github.com/DevRappers/)
+[![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react&link=https://github.com/doong-jo/)](https://github.com/devrappers/)
+[![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js&link=https://github.com/doong-jo/)](https://github.com/devrappers/)
 -  **My Blog :** [https://medium.com/@sdong001_28201](https://medium.com/@sdong001_28201)
 
 ![doong-jo github stats](https://github-readme-stats.vercel.app/api?username=doong-jo&show_icons=true)
