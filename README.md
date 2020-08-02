@@ -5,7 +5,6 @@
 
 ### About
 I am not interested in growth. But I just keep going.
-- **Interestes :** Reusable Component(UI) / Design system, Infra for FE, Mocking API in client side
 -  **Weapons :** [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/doong-jo/)](https://github.com/doong-jo/)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&link=https://github.com/doong-jo/)](https://github.com/doong-jo/)
 [![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react&link=https://github.com/doong-jo/)](https://github.com/doong-jo/)
