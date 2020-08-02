@@ -1,4 +1,5 @@
 ## I'm Sungdong Jo, Front-end Developer. <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+![KakaoTalk_Photo_2020-08-02-22-48-19](https://user-images.githubusercontent.com/22005861/89124485-457a6c00-d512-11ea-9452-af730dd17cb6.gif)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdoong-jo)](https://hits.seeyoufarm.com)
 
@@ -11,9 +12,6 @@
 -  **My Blog :** [https://medium.com/@sdong001_28201](https://medium.com/@sdong001_28201)
 
 ![doong-jo github stats](https://github-readme-stats.vercel.app/api?username=doong-jo&show_icons=true&count_private=true&theme=onedark)
-
-### Contact
-[![Gmail Badge](https://img.shields.io/badge/-sdong001@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sdong001@gmail.com)](mailto:sdong001@gmail.com)
 
 <!--
 **doong-jo/doong-jo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
