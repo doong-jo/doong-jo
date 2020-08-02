@@ -11,7 +11,7 @@ I am not interested in growth. But I just keep going.
 [![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js&link=https://github.com/doong-jo/)](https://github.com/doong-jo/)
 -  **My Blog :** [https://medium.com/@sdong001_28201](https://medium.com/@sdong001_28201)
 
-![doong-jo github stats](https://github-readme-stats.vercel.app/api?username=doong-jo&show_icons=true)
+![doong-jo github stats](https://github-readme-stats.vercel.app/api?username=doong-jo&show_icons=true&count_private=true)
 
 <!--
 **doong-jo/doong-jo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
