@@ -4,7 +4,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdoong-jo)](https://hits.seeyoufarm.com)
 
 ### About
--  **Interests :** Web-based tools, Design System, Build Mock APIs in FE
+-  **Interests :** Web-based tools, Canvas, Design System, Build Mock APIs in FE
 -  **Mainly weapons :** [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/doong-jo/)](https://github.com/doong-jo/)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&link=https://github.com/doong-jo/)](https://github.com/doong-jo/)
 [![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react&link=https://github.com/doong-jo/)](https://github.com/doong-jo/)
