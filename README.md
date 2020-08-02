@@ -5,7 +5,7 @@
 
 ### About
 -  **Interests :** Reusable Component or UI (like Design System), Build Mock APIs in FE, Infra for FE
--  **Weapons :** [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/doong-jo/)](https://github.com/doong-jo/)
+-  **Mainly weapons :** [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/doong-jo/)](https://github.com/doong-jo/)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&link=https://github.com/doong-jo/)](https://github.com/doong-jo/)
 [![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react&link=https://github.com/doong-jo/)](https://github.com/doong-jo/)
 [![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js&link=https://github.com/doong-jo/)](https://github.com/doong-jo/)
